@@ -1,0 +1,7 @@
+C:\Users\cevat\source\repos\asıl proje\asıl proje\bin\Debug\asıl proje.exe.config
+C:\Users\cevat\source\repos\asıl proje\asıl proje\bin\Debug\asıl proje.exe
+C:\Users\cevat\source\repos\asıl proje\asıl proje\bin\Debug\asıl proje.pdb
+C:\Users\cevat\source\repos\asıl proje\asıl proje\obj\Debug\asıl proje.csproj.AssemblyReference.cache
+C:\Users\cevat\source\repos\asıl proje\asıl proje\obj\Debug\asıl proje.csproj.CoreCompileInputs.cache
+C:\Users\cevat\source\repos\asıl proje\asıl proje\obj\Debug\asıl proje.exe
+C:\Users\cevat\source\repos\asıl proje\asıl proje\obj\Debug\asıl proje.pdb
