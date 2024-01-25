@@ -1,0 +1,2 @@
+# StockManagerProject
+Depo Yönetimi Uygulaması
